@@ -1,4 +1,4 @@
-My demo modpack for learning purposes
+My demo modpack for learning purposes.
 
 
 Source installation information for modders
